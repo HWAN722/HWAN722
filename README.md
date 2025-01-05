@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Eric(Haoxiang) 👋
+- 🌟 Specialize：AI & Data analysis
+- 📚 Interest：Open Source & LLM
 
+## 📊 Statistics
+![Haoxiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWAN722&show_icons=true&theme=radical)
+
+## 🌟 Project Display
+- [Llama 3.2-3B Chinese finetunning](https://github.com/HWAN722/Deep-learning-models/blob/main/Llama3_2_3B_Instruct.ipynb)
+- [Research in Hallucinations](https://github.com/HWAN722/self-improvement/blob/main/Extrinsic_Hallucinations_in_LLMs.ipynb)
 <!--
 **HWAN722/HWAN722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
